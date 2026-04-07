@@ -5,3 +5,6 @@ __pycache__/
 .env
 git-status.txt
 backend/models_cache/
+frontend/README.md
+backend/README.md
+backend/autogen-doc/README.txt
