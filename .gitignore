@@ -1,0 +1,7 @@
+.venv/
+node_modules/
+__pycache__/
+*.pyc
+.env
+git-status.txt
+backend/models_cache/
