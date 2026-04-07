@@ -1,32 +1,32 @@
-**Ultra-AI-Agent**
+**Candor Data Platform (CDP)**
 AI-powered, schema-aware code generation for modern data engineering
 ________________________________________
 🔍 **Overview**
-Ultra-AI-Agent is an intelligent code-generation IDE designed to automate and accelerate data warehousing and data engineering workflows.
-Instead of manually writing and debugging complex ETL pipelines, Ultra-AI-Agent enables teams to generate production-ready, reusable code instantly using AI-driven Vibe Coding and schema-aware automation.
+Candor Data Platform (CDP) is an intelligent code-generation IDE designed to automate and accelerate data warehousing and data engineering workflows.
+Instead of manually writing and debugging complex ETL pipelines, Candor enables teams to generate production-ready, reusable code instantly using AI-driven Vibe Coding and schema-aware automation.
 
 ________________________________________
-⚡ **Why Ultra-AI-Agent?**
+⚡ **Why Candor?**
 Data engineering today is:
 - Time-consuming
 - Repetitive
 - Error-prone
 - Hard to scale across systems
 
-Ultra-AI-Agent solves this by automating the entire lifecycle — from schema mapping to deployment.
+Candor solves this by automating the entire lifecycle — from schema mapping to deployment.
 
-**Ultra-AI-Agent IDE Dashboard:**
+**Candor Data Platform IDE Dashboard:**
 <img width="1909" height="989" alt="Screenshot 2026-03-17 172322" src="https://github.com/user-attachments/assets/4666bcd9-6cfb-4e57-8acb-f18d9d859eac" />
 
-**STTM as the Core of Ultra-AI-Agent**
-The Ultra-AI-Agent is built on top of our existing STTM (Source-To-Target Mapping) framework, which is now available as open source.
+**STTM as the Core of Candor Data Platform**
+The Candor Data Platform (CDP) is built on top of our existing STTM (Source-To-Target Mapping) framework, which is now available as open source.
 STTM forms the core foundation for defining how data is mapped, transformed, and moved between systems. It provides a structured approach to handling data workflows and ETL logic.
 
-***Ultra-AI-Agent extends this foundation by adding:***
+***Candor extends this foundation by adding:***
 - Intelligent, prompt-driven pipeline creation
 - Schema-aware data understanding
 - Simplified and automated data workflows
-While STTM focuses on data mapping and transformation, Ultra-AI-Agent builds on it to deliver a more complete and user-friendly data platform.
+While STTM focuses on data mapping and transformation, Candor builds on it to deliver a more complete and user-friendly data platform.
 
 ✨ **Key Features**  
 
@@ -66,9 +66,9 @@ While STTM focuses on data mapping and transformation, Ultra-AI-Agent builds on 
 - Template-based standardized coding
 <img width="1387" height="948" alt="Screenshot 2026-03-17 172645" src="https://github.com/user-attachments/assets/5ee339a4-1c06-4f77-844c-64ae46d3fa04" />
 
-🆚 **How Ultra-AI-Agent is Different**  
+🆚 **How Candor is Different**  
 
-| Traditional Tools        | Ultra-AI-Agent               |
+| Traditional Tools        | Candor Data Platform               |
 |--------------------------|------------------------------------|
 | Manual coding required   | AI-generated code-Just by Prompts  |
 | One-time scripts         | Reusable production code           |
@@ -89,13 +89,13 @@ ________________________________________
 
 💡 **Example Workflow**  
 1. Define source and target systems  
-2. Ultra-AI-Agent analyzes schemas automatically  
+2. Candor analyzes schemas automatically  
 3. Generates transformation logic  
 4. Produces production-ready code  
 5. Validate, deploy, and scale  
 
 🤝 **Contributing / Feedback**  
-We’re building Ultra-AI-Agent with the community in mind:  
+We’re building Candor with the community in mind:  
 - Share feedback  
 - Suggest features  
 - Report issues  
