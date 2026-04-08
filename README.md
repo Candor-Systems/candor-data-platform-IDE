@@ -11,7 +11,7 @@ Instead of manually writing and debugging complex ETL pipelines, Candor enables 
   <img src="https://img.shields.io/github/license/candor-data-platform/candor-data-platform-IDE?style=for-the-badge&color=facc15&label=LICENSE" />
   <img src="https://img.shields.io/badge/JOIN-THE%20COMMUNITY-purple?style=for-the-badge" />
 </p>
-________________________________________
+
 ⚡ **Why Candor?**
 Data engineering today is:
 - Time-consuming
