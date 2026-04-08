@@ -8,7 +8,7 @@ Instead of manually writing and debugging complex ETL pipelines, Candor enables 
 <p align="left">
   <img src="https://img.shields.io/github/stars/candor-data-platform/candor-data-platform-IDE?style=for-the-badge&color=000000&label=STARS" />
   <img src="https://img.shields.io/github/issues-pr/candor-data-platform/candor-data-platform-IDE?style=for-the-badge&color=4c1d95&label=PULLS" />
-<a href="https://github.com/candor-data-platform/candor-data-platform-IDE/blob/main/LICENSE">
+<a href="https://github.com/candor-data-platform/candor-data-platform-IDE/main/LICENSE">
   <img src="https://img.shields.io/github/license/candor-data-platform/candor-data-platform-IDE?style=for-the-badge&color=facc15&label=LICENSE" />
 </a>
   <img src="https://img.shields.io/badge/JOIN-THE%20COMMUNITY-purple?style=for-the-badge" />
