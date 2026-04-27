@@ -1,4 +1,5 @@
 **Candor Data Platform (CDP)**
+
 Generate ETL pipelines using prompts in seconds
 ________________________________________
 🔍 **Overview**
@@ -18,6 +19,7 @@ Instead of manually writing and debugging complex ETL pipelines, Candor enables 
     <img src="https://img.shields.io/badge/JOIN-THE%20COMMUNITY-7c3aed?style=for-the-badge" />
   </a>
 </p>
+
 **Why Candor?**
 Data engineering today is:
 - Time-consuming
