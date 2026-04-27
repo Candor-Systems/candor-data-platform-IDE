@@ -1,5 +1,5 @@
 **Candor Data Platform (CDP)**
-AI-powered, schema-aware code generation for modern data engineering
+Generate ETL pipelines using prompts in seconds
 ________________________________________
 🔍 **Overview**
 Candor Data Platform (CDP) is an intelligent code-generation IDE designed to automate and accelerate data warehousing and data engineering workflows.
