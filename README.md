@@ -87,7 +87,7 @@ What is STTM? - [Refer](https://www.youtube.com/watch?v=J0fRCzUvl_0)
 
 🆚 **How Candor is Different**  
 
-| Traditional Tools        | Candor Data Platform               |
+| Traditional Tools        | Candor IDE              |
 |--------------------------|------------------------------------|
 | Manual coding required   | AI-generated code-Just by Prompts  |
 | One-time scripts         | Reusable production code           |
@@ -101,6 +101,7 @@ What is STTM? - [Refer](https://www.youtube.com/watch?v=J0fRCzUvl_0)
 - Data migration projects  
 - Multi-source data integration  
 - Enterprise data engineering workflows
+- BYOK or local AI models through Ollama.
 ________________________________________
 🏁 **Getting Started**  
 👉 Explore the platform: [Try](https://www.candorsys.com/)  
@@ -126,4 +127,4 @@ ________________________________________
 📬 Contact
 Interested in a demo or collaboration?
 👉 Visit: https://candorsys.com
-👉 Reach out for a walkthrough
+👉 Reach out for a walkthrough: support@candorsys.com
