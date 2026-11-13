@@ -1,10 +1,12 @@
-**Candor Data Platform (CDP)**
+**Candor IDE**
 
 Generate ETL pipelines using prompts in seconds
 ________________________________________
 🔍 **Overview**
-Candor Data Platform (CDP) is an intelligent code-generation IDE designed to automate and accelerate data warehousing and data engineering workflows.
-Instead of manually writing and debugging complex ETL pipelines, Candor enables teams to generate production-ready, reusable code instantly using AI-driven Vibe Coding and schema-aware automation.
+Candor IDE is an AI-powered desktop IDE designed to help developers write, understand, and generate code more efficiently. It features Frontier AI Chat, workspace-aware AI assistance, and schema-aware code generation to support development across different projects and data environments.
+With its Bring Your Own Key (BYOK) capability, developers can connect their preferred AI models and access AI assistance within their development workspace. Candor IDE combines intelligent coding support, responsive chat, and database schema awareness to improve developer productivity.
+Candor Desktop IDE 2.0 supports Windows and Linux and is designed for individual developers and development teams. It also provides extension support for popular development environments, including Cursor, Antigravity, and Visual Studio Code, making it easier for developers to integrate Candor's capabilities into their preferred coding environments.
+
 <p>
   <a href="https://github.com/candor-data-platform/candor-data-platform-IDE/stargazers">
     <img src="https://img.shields.io/github/stars/candor-data-platform/candor-data-platform-IDE?style=for-the-badge&color=000000&label=STARS" />
@@ -29,11 +31,11 @@ Data engineering today is:
 
 Candor solves this by automating the entire lifecycle — from schema mapping to deployment.
 
-**Candor Data Platform IDE Dashboard:**
+**Candor IDE:**
 <img width="1909" height="989" alt="Screenshot 2026-03-17 172322" src="https://github.com/user-attachments/assets/4666bcd9-6cfb-4e57-8acb-f18d9d859eac" />
 
-**STTM as the Core of Candor Data Platform**
-The Candor Data Platform (CDP) is built on top of our existing STTM (Source-To-Target Mapping) framework, which is now available as open source.
+**STTM as the Core of Candor IDE**
+The Candor IDE is built on top of our existing STTM (Source-To-Target Mapping) framework, which is now available as open source.
 STTM forms the core foundation for defining how data is mapped, transformed, and moved between systems. It provides a structured approach to handling data workflows and ETL logic.
 
 ***Candor extends this foundation by adding:***
