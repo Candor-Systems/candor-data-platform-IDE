@@ -1,6 +1,6 @@
 **Candor IDE**
 
-Generate ETL pipelines using prompts in seconds
+Generate Live ETL pipelines using prompts in seconds from database to Data Warehouse
 ________________________________________
 🔍 **Overview**
 Candor IDE is an AI-powered desktop IDE designed to help developers write, understand, and generate code more efficiently. It features Frontier AI Chat, workspace-aware AI assistance, and schema-aware code generation to support development across different projects and data environments.
